@@ -1,7 +1,7 @@
 package com.mycompany.activity_1-3;
 //Mari, Niel Cedrick P. BSCOME 1stYear Sir. Gole Programming
 import java.util.Scanner;
-public class Activity_1 {
+public class Activity_1-3 {
     
 
     public static void main(String[] args) {
