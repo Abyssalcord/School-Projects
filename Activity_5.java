@@ -1,9 +1,9 @@
-package com.mycompany.activity_4to5;
+package com.mycompany.activity_5;
 //Mari, Niel Cedrick P. BSCOME 1stYear Sir. Gole Programming
 
 import java.util.Scanner;
 
-public class Activity_4to5 {
+public class Activity_5 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
